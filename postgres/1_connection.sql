@@ -1,12 +1,12 @@
-CREATE TABLE users (
-    id SERIAL PRIMARY KEY,
-    name TEXT,
-    age INT
-);
+-- CREATE TABLE users (
+--     id SERIAL PRIMARY KEY,
+--     name TEXT,
+--     age INT
+-- );
 
-INSERT INTO users (name, age)
-VALUES
-('Shariyer', 22),
-('Alice', 25);
+-- INSERT INTO users (name, age)
+-- VALUES
+-- ('Shariyer', 22),
+-- ('Alice', 25);
 
-SELECT * FROM users;
+-- SELECT * FROM users;
